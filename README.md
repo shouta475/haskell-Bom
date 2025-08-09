@@ -1,6 +1,6 @@
 # Bom
 
-### ban", "bon","pon"の文字列をランダムに繋げて爆発を表現します。
+### "ban", "bon","pon"の文字列をランダムに繋げて表示します。
 ### 必要なツール
 - ビルド・実行のため[stack](https://docs.haskellstack.org/en/stable/install_and_upgrade/)をインストールして下さい。
 ### 依存関係
